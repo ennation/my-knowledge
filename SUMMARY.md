@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Keyboards](keyboards)
-	* [QMK](keyboards/qmk.md)
+- [Introduction](README.md)
+- [Keyboards](keyboards)
+	- [QMK](keyboards/qmk.md)

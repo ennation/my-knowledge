@@ -28,3 +28,6 @@ QMK can be as simple or as complex as you want it to be. If you just want to cha
 * [VIA Official Website](https://caniusevia.com) - The place to find everything about VIA
 * [MechMerlin on YouTube](https://www.youtube.com/channel/UCdfrYMwAJ8LHvy8-j_WIxAw) - Tutorial videos for QMK and VIA usage, and VIA porting [(Specific Tutorial Playlist Here)](https://www.youtube.com/playlist?list=PLZlceRZZjRugJFL-vnenYnDrbMc6wu_e_)
 * [KBDFans](https://kbdfans.com) - Chinese retailer of lots of keyboard parts, including many QMK-compatible PCBs
+
+---
+The general structure and implementation of this project, as well as some sections, were borrowed from Nikita Voloboev's [Everything I Know](https://wiki.nikitavoloboev.xyz). This work is distributed under the Creative Commons Attribution 4.0 License.

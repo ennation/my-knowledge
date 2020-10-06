@@ -29,6 +29,3 @@ This page will not follow my usual format, as these are my personal learning not
 * [Ruby Koans](http://rubykoans.com) - An awesome set of exercises for learning
 * [Why's Poignant Guide to Ruby](https://poignant.guide/book/chapter-1.html) - A humorous and fun guide to learning Ruby
 * [Ruby for Beginners](http://ruby-for-beginners.rubymonstas.org/index.html) - Relatively un-cool but very robust guide to the basics
-
----
-The general structure and implementation of this project, as well as some sections, were borrowed from Nikita Voloboev's [Everything I Know](https://wiki.nikitavoloboev.xyz). This work is distributed under the Creative Commons Attribution 4.0 License.

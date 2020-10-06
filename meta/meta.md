@@ -38,6 +38,3 @@ This project is still in its **extremely** early stages. Amassing enough knowled
    2. This knowledge wiki itself and the search it has.
 2. Transcribing knowledge in terms that make sense to me and other people.
    -  I wish to make my mind's knowledge and expertise as _reusable_ by as many other interested people as possible.
-
----
-The general structure and implementation of this project, as well as some sections, were borrowed from Nikita Voloboev's [Everything I Know](https://wiki.nikitavoloboev.xyz). This work is distributed under the Creative Commons Attribution 4.0 License.

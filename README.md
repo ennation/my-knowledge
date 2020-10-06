@@ -30,7 +30,7 @@ If you found a mistake anywhere, I would appreciate your help. GitBook provides 
 
 I'd love to hear any [ideas you have](https://github.com/nikitavoloboev/knowledge/issues/new) on how I can improve this wiki.
 
---
+***
 
 The general structure and implementation of this project, as well as some sections, were borrowed from Nikita Voloboev's [Everything I Know](https://wiki.nikitavoloboev.xyz). This work is distributed under the Creative Commons Attribution 4.0 License.
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
